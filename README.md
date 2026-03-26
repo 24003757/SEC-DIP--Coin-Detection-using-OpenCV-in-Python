@@ -1,7 +1,7 @@
 # Coin-Detection-using-OpenCV-in-Python
 
-## Name : AALIYA FATHIMA M
-## Reg.No: 212223230001
+## Name : VINOLIA ALAINA. R
+## Reg.No: 212224240184
 
 # Aim:
 To develop an AI-based image processing system that can automatically detect and count coins in an image using Python and OpenCV, while visualizing all the intermediate processing steps such as grayscale conversion, blurring, edge detection, and contour detection.
